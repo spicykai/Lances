@@ -1,0 +1,6 @@
+{
+	"values":[
+		"rhythm_magic:load",
+		"rhythm_magic:post_load"
+	]
+}

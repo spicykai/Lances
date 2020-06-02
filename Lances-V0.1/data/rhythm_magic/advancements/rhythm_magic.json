@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": {
+            "text": "Rhythm Magic",
+			"color":"green"
+        },
+        "description": {
+            "text": "Power is in the beat",
+			"color":"aqua"
+        },
+        "icon": {
+            "item": "minecraft:music_disc_cat"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "always": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "tu:base"
+}
